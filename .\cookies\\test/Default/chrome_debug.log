@@ -1,0 +1,2 @@
+[0315/043652.091537:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[0315/043652.212748:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.0.0", source: https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0 (2)
