@@ -1,9 +1,0 @@
-[9288:9288:0315/043315.974550:WARNING:chrome_main_delegate.cc(618)] This is Chrome version 111.0.5563.64 (not a warning)
-[9288:9373:0315/043316.089323:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.ListActivatableNames: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.202" (uid=1000 pid=9288 comm="/snap/chromium/2392/usr/lib/chromium-browser/chrom" label="snap.chromium.chromium (enforce)") interface="org.freedesktop.DBus" member="ListActivatableNames" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
-[9288:9288:0315/043316.095933:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9386:9386:0315/043316.105861:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
-[9288:9288:0315/043316.238086:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
-[9288:9288:0315/043317.455512:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.0.0", source: https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0 (2)
-[9387:9411:0315/043319.201168:WARNING:sqlite_persistent_store_backend_base.cc(159)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:207 to client_task_runner_.
-[9387:9411:0315/043319.201354:WARNING:sqlite_persistent_store_backend_base.cc(159)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:207 to client_task_runner_.
-[9288:9288:0315/043319.223392:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
